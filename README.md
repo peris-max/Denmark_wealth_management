@@ -1,5 +1,6 @@
 # 🇩🇰 FormueOS — Danish Wealth Management Dashboard
-![FormueOS Dashboard](dashboard.png)
+![FormueOS Dashboard](dashboard.PNG)
+
 
 ![React](https://img.shields.io/badge/React-Frontend-blue)
 ![Recharts](https://img.shields.io/badge/Recharts-Charts-green)
