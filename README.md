@@ -128,13 +128,15 @@ http://localhost:3000
 # 📸 Screenshots
 
 ### Client Dashboard
-(Add screenshot here)
+![Client Dashboard](dashboard.PNG)
 
 ### Portfolio Overview
-(Add screenshot here)
+
+![Portfolio Risk Overview](risk.PNG)
 
 ### Asset Allocation
-(Add screenshot here)
+
+![Asset Allocation](stocks.PNG)
 
 ---
 
